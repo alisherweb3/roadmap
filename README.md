@@ -50,7 +50,7 @@
 
 -------------------------------------------------------
 
-[photo] <img src="/roadmap.jpg">
+<img src="/roadmap.jpg">
 
 -------------------------------------------------------
 
@@ -74,14 +74,20 @@ YouTube-каналы для новичков:
 Интерактивная онлайн-платформа по обучению <a href="https://www.codecademy.com"> codecademy </a> 12 языкам программирования.
 
 Тренажер-задачник (https://www.codewars.com/), созданный в стиле восточных единоборств. Сайт – додзё; задачки – ката; вы – солдат, воин, а не просто студент-программист, а код-ревью – кумите, спарринг. 
+
 Здесь (https://t.me/elbrusbootcamp1/268) рассказывали про codewars для начинающих самураев:, а здесь (https://t.me/elbrusbootcamp1/356) — для продвинутых.
 
 Вот ресурсы, которые рекомендует наш преподаватель по JavaScript Денис Образцов:
 
 https://doka.guide/js/ 
+
 https://learn.javascript.ru (https://learn.javascript.ru/) 
 
-Также у Elbrus Bootcamp есть регулярные бесплатные мастер-классы для новичков по части JavaScript (https://elbrusboot.camp/events/master_klass_mk_js_beginners_online_wednesday?utm_source=puzzlebot&utm_medium=native&utm_campaign=mk_js_beginners) и Data Science (https://elbrusboot.camp/events/master_klass_mk_ds_beginners_online_sunday?utm_source=puzzlebot&utm_medium=native&utm_campaign=mk_ds_beginners) (Python) — возможность освоить базовый синтез и понять, как это вообще работает.
+Также у Elbrus Bootcamp есть регулярные бесплатные мастер-классы для новичков по части JavaScript 
+
+(https://elbrusboot.camp/events/master_klass_mk_js_beginners_online_wednesday?utm_source=puzzlebot&utm_medium=native&utm_campaign=mk_js_beginners) и Data Science 
+
+(https://elbrusboot.camp/events/master_klass_mk_ds_beginners_online_sunday?utm_source=puzzlebot&utm_medium=native&utm_campaign=mk_ds_beginners) (Python) — возможность освоить базовый синтез и понять, как это вообще работает.
 
 
 --------------------------------------------------------------------

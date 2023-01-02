@@ -24,6 +24,7 @@
 Курсы:
 
 <a href="ttps://www.udemy.com"> Udemy </a>
+
 <a href="https://coursehunter.net"> Course hunter </a>
 
 И самое главное — YouTube, это наше все:
@@ -66,9 +67,10 @@
 Бесплатные онлайн-курсы <a href="https://www.freecodecamp.org"> freecodecamp </a>
 
 YouTube-каналы для новичков:
-— <a href="https://www.youtube.com/playlist?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT"> Владилен Минин </a>
-— <a href="https://www.youtube.com/watch?v=CxgOKJh4zWE"> Bogdan Stashchuk </a>
-— <a href="https://www.youtube.com/c/FreelancerLifeStyle"> Фрілансер по життю </a>
+
+- <a href="https://www.youtube.com/playlist?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT"> Владилен Минин </a>
+- <a href="https://www.youtube.com/watch?v=CxgOKJh4zWE"> Bogdan Stashchuk </a>
+- <a href="https://www.youtube.com/c/FreelancerLifeStyle"> Фрілансер по життю </a>
 
 
 Интерактивная онлайн-платформа по обучению <a href="https://www.codecademy.com"> codecademy </a> 12 языкам программирования.
@@ -125,26 +127,4 @@ https://learn.javascript.ru (https://learn.javascript.ru/)
 Не понимаете, что значат все эти слова? Всему этому можно научиться на курсе Fullstack JavaScript в Elbrus Bootcamp — приходите на День открытых дверей (https://elbrusboot.camp/events/meeting_dod_js_online_monday?utm_source=puzzlebot&utm_medium=7-2-naive&utm_campaign=dod_js_online)
 
 ------------------------------------------------------------------
-
-Привет, это снова Гоша! В догонку к разговорам о важности постоянного обучения — подборка ресурсов от нашего ментора по JavaScript Артема Оганесяна
-
-Сайты:
-metanit.com
-freecodecamp.org (https://www.freecodecamp.org/)
-
-Курсы:
-udemy.com (https://www.udemy.com/)
-coursehunter.net (https://coursehunter.net/)
-
-И самое главное — YouTube, это наше все:
-
-Fireship youtube.com/c/Fireship (https://www.youtube.com/c/Fireship)
-dev Ed youtube.com/c/DevEd (https://www.youtube.com/c/DevEd)
-Traversy media outube.com/c/TraversyMedia (https://www.youtube.com/c/TraversyMedia)
-Sonny Sangha youtube.com/c/SonnySangha (https://www.youtube.com/c/SonnySangha) 
-
-Изучайте, пользуйтесь, прокачивайтесь!
-
----------------------------------------
-
 
